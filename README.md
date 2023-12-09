@@ -53,10 +53,10 @@ Esta aplicación de carrito de compras fue desarrollada utilizando React y se in
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](screenshots/Productos.png)
+![Captura de Pantalla 1]([screenshots/Productos.png](https://github.com/ALucasE/app-carrito/blob/main/Screenshots/Productos.png))
 _Vista de la pagina de productos._
 
-![Captura de Pantalla 2](screenshots/Carrito02.png)
+![Captura de Pantalla 2](https://github.com/ALucasE/app-carrito/blob/main/Screenshots/Carrito02.png)
 _Vista del carrito de comrpas._
 
 ## Contribuciones
